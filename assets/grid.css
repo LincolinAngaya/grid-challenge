@@ -10,13 +10,13 @@ body{
 }
 .testimonial{
   max-width: 1440px;
-  border: 2px solid red;
+  
   margin: 10px auto;
   padding: 20px;
 }
 .card{
   background: #ffff;
-  border: 0.5px solid blue;
+  
   border-radius: 10px;
   padding: 30px;
   box-shadow: rgba(17,12,46,0.15)0px 48px 100px 0px;
@@ -26,7 +26,7 @@ header{
   display: flex;
   align-items: center;
   margin-bottom: 10px;
-  border: 0.5px solid blue;
+
 }
 
 header img{
@@ -48,7 +48,7 @@ header p{
     font-weight: 500;
     line-height: 1.3;
     margin-bottom: 20px;
-    border: 0.5px solid blue;
+   
     
   }
   .card .quote{
@@ -75,3 +75,12 @@ header p{
     color: #fff;
     
   }
+  .footer{
+  text-align: center;
+  font-size: 19px;
+  }
+.footer a{
+  text-decoration: none;
+  color: blue;
+  
+}

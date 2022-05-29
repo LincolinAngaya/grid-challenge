@@ -8,7 +8,7 @@ practice challenge on grid
   <li>grid gap</li>
   <li>grid-auto-row</li>
   <li>grid-auto-column</li>
-  <li>grid-template-area:
+  <li>grid-template-area:<br>
     'nav' 'nav' 'nav'<br>
     'content''nav''side'<br>
     'footer''footer''footer'

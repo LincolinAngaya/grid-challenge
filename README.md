@@ -9,8 +9,8 @@ practice challenge on grid
   <li>grid-auto-row</li>
   <li>grid-auto-column</li>
   <li>grid-template-area:
-    'nav' 'nav' 'nav'
-    'content''nav''side'
+    'nav' 'nav' 'nav'<br>
+    'content''nav''side'<br>
     'footer''footer''footer'
   </li>
   
@@ -29,6 +29,6 @@ practice challenge on grid
   </ul>
    ## selecting the items with pseudo-selectors
    i.e .item:nth-of-type(2){
-   grid-row:2/4<
-   }
+   grid-row:2/4
+   } 
   

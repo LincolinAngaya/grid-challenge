@@ -8,3 +8,9 @@ body{
   line-height: 1.7;
   font-size: 13px;
 }
+.testimonial{
+  max-width: 1440px;
+  border: 2px solid red;
+  margin: 10px auto;
+  padding: 20px;
+}

@@ -58,3 +58,10 @@ header p{
    opacity: 70%;
 
   }
+  #purple{
+    background-color:hsl(263,55%,72%);
+    color: #fff;
+    background-image: url(./images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: top 10px right 10px;
+  }

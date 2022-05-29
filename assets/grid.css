@@ -65,3 +65,8 @@ header p{
     background-repeat: no-repeat;
     background-position: top 10px right 10px;
   }
+  #gray{
+    background-color:hsl(217,19%,35%);
+    color: #fff;
+    
+  }
